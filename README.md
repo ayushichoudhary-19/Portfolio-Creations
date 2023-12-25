@@ -2,6 +2,9 @@
 
 
 <p align="center">
+  
+![Portfolio GDSC WINTER OF CODE](https://github.com/ayushichoudhary-19/Portfolio-Creations/assets/73214455/1700694a-4f67-4872-8bc9-0ef2e98c7ae6)
+  
 </p> 
 
 This is a portfolio website through which one can showcase and define their professional identity, highlighting projects, skills, and experiences in a clean and personalized format.
